@@ -1,2 +1,2 @@
-# CSharp-24.Proje
+# C#-24.Proje
 Kalıtım (Inheritance)2
